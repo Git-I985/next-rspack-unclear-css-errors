@@ -1,5 +1,7 @@
 # next-rspack unclear or not displayed css errors
 
+Sandbox https://codesandbox.io/p/github/Git-I985/next-rspack-unclear-css-errors/main
+
 Deps and versions in `package.json`
 
 ## Issue
